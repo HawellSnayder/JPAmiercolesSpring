@@ -1,0 +1,14 @@
+package com.bd.jpa.servicio;
+
+import java.util.List;
+
+import com.bd.jpa.modelo.TblProducto;
+
+public interface IProductoService {
+	void RegistrarProducto(TblProducto producto);
+	void ActualizarProducto(TblProducto producto);
+	void EliminarProducto(Integer id);
+	List<TblProducto> ListadoProducto();
+	TblProducto BuscarporId(Integer id);
+
+}

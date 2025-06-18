@@ -1,0 +1,35 @@
+package com.bd.jpa.servicio;
+
+import java.util.List;
+
+
+import com.bd.jpa.modelo.TblProducto;
+
+public class ProductoServiceImp implements IProductoService{
+
+	
+	@Override
+	public void RegistrarProducto(TblProducto producto) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void ActualizarProducto(TblProducto producto) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<TblProducto> ListadoProducto() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public TblProducto BuscarporId(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

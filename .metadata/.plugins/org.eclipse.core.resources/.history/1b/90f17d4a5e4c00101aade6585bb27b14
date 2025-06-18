@@ -1,0 +1,30 @@
+package com.bd.jpa.controlador;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.bd.jpa.modelo.TblProducto;
+import com.bd.jpa.servicio.IProductoService;
+
+@Controller
+@RequestMapping("/vistas")
+public class productoController {
+
+	@Autowired
+	private IProductoService productoServ;
+	
+	@GetMapping("/")
+	public String ListarProducto(Model model) {
+		model.addAttribute("producto",productoServ.ListadoProducto());
+		
+		return "/vistas/ListadoProducto";
+	}
+	@GetMapping("/RegistrarProducto")
+	public String RegistrarProducto(TblProducto producto ,Model model) {
+		
+		return "/vistas/RegistrarProducto";
+	}
+}

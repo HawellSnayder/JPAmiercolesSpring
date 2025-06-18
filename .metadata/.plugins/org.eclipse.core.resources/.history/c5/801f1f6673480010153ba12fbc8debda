@@ -1,0 +1,50 @@
+package com.bd.jpa.servicio;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Service;
+
+import com.bd.jpa.modelo.TblProducto;
+import com.bd.jpa.repositorio.IProductoRepositorio;
+
+@Service
+public class ProductoServiceImp implements IProductoService{
+	@Autowired
+	private IProductoRepositorio productoRepo; 
+	
+	@Override
+	public void RegistrarProducto(TblProducto producto) {
+		// TODO Auto-generated method stub
+		((CrudRepository<TblProducto, Integer>) productoRepo).save(producto);
+	}
+
+	@Override
+	public void ActualizarProducto(TblProducto producto) {
+		// TODO Auto-generated method stub
+		((CrudRepository<TblProducto, Integer>) productoRepo).save(producto);
+		
+	}
+
+	@Override
+	public List<TblProducto> ListadoProducto() {
+		// TODO Auto-generated method stub
+		return (List<TblProducto>) productoRepo.findAll();
+	}
+
+	@Override
+	public TblProducto BuscarporId(Integer id) {
+		// TODO Auto-generated method stub
+		return productoRepo.findById(id);
+	}
+
+	@Override
+	public void EliminarProducto(Integer id) {
+		// TODO Auto-generated method stub
+		TblProducto productoEncontrado=productoRepo.findById(id);
+		if(productoEncontrado!=null)
+			productoRepo.delete(productoEncontrado);
+	}
+
+}

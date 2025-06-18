@@ -1,0 +1,3 @@
+spring.application.name=SpringJPAMysqlMiercoles
+
+server.port=9190

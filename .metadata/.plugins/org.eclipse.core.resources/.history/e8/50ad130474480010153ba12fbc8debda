@@ -1,0 +1,20 @@
+package com.bd.jpa.controlador;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.bd.jpa.servicio.IProductoService;
+
+public class productoController {
+
+	@Autowired
+	IProductoService productoServ;
+	
+	@GetMapping("/")
+	public String ListarProducot(Model model) {
+		model.addAttribute("producto",productoServ.ListadoProducto())
+		
+		return "ListadoProducto"
+	}
+}
