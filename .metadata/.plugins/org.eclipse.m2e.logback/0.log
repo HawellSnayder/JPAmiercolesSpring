@@ -1231,3 +1231,48 @@
 2025-06-18 11:07:11,133 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-06-18 11:07:11,140 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2025-06-18 11:07:11,143 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 11:38:48,434 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 11:38:48,456 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 11:38:48,459 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:01:52,122 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:01:52,140 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:01:52,143 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:03:14,011 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:03:14,020 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:03:14,023 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:03:47,373 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:03:47,379 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:03:47,383 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:11:01,199 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:11:01,205 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:11:01,209 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:11:49,633 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:11:49,642 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:11:49,647 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:12:57,419 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:12:57,427 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:12:57,430 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:26:14,237 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-18 12:26:14,238 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:26:14,244 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:27:33,814 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:27:33,823 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:27:33,827 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:28:25,047 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-18 12:28:25,049 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:28:25,055 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:29:11,079 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-18 12:29:11,081 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:29:11,084 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:30:05,014 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-18 12:30:05,015 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:30:05,019 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:30:30,011 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-18 12:30:30,013 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:30:30,018 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:31:07,102 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:31:07,111 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:31:07,117 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
+2025-06-18 12:31:43,303 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-18 12:31:43,310 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-06-18 12:31:43,313 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SUITE\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\SpringJPAMysqlMiercoles\src\test\resources
